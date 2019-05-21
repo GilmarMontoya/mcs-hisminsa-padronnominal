@@ -1,0 +1,8 @@
+server:
+  port: 19100
+  context-path: /mcs-hisminsa-padron-nominal
+
+spring:
+  aop:
+    proxy-target-class: true
+

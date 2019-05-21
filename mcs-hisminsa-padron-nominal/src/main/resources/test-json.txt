@@ -1,0 +1,29 @@
+﻿http://localhost:19100/mq/pn/v1.0/envio-pn
+
+{
+	"cabecera": {
+		"version": "0001",
+		"lonCabecera": 128,
+		"tipServicio": "001",
+		"lonTotalTrama": "000023000",
+		"fragmentacion": " ",
+		"ttl": "000000000" ,
+		"tipAtencionEESS": "1",
+		"carVerificacion": "RENIECPERURENIEC",
+		"codInstitucionSolicitante": "DE5500",
+		"codServidorReniec": "RENIEC001",
+		"sisIntitucionSolicitante": "1234567890",
+		"usuFinalInstitucionSOlicitante": "45896465",
+		"nomEquipoInstitucionSolictante":"MINSA-PC15",
+		"reservadoCabecera":" "
+	},
+	"datosConsulta": {
+		"numDNI": "78456125",
+		"priApellido": "Rojas",
+		"segApellido": "Mercado",
+		"prenombres": "Luisa",
+		"eessAtencion": "00003164",
+		"fecActualizacion": "20180702",
+		"reservadoConsulta": " "
+	}
+}
